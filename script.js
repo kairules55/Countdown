@@ -1,4 +1,4 @@
-var count = 11;
+var count = 15;
 var displayTimer = document.getElementById('display');
 
 function timer() {
